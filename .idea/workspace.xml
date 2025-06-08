@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acedda39-0b08-4cf2-8f22-3fd5601e100b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/CreateFlashcard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/CreateFlashcardCollection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/EditFlashcard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileUpload.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileUploadButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileUploadDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FlashcardCollection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FlashcardCollectionList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/MockList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/QuizDisplay.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/QuizForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/QuizList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/layout/Navigation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/pages/FilesPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/pages/HomePage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/axiosConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/fileService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/flashcardService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/theme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/controller/FileUploadControllerIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/controller/FileUploadControllerIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/service/FlashcardServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/service/FlashcardServiceIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech/frontend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/frontend/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/edtech/edtech-be" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2yDaC8zKbvn6WrRUsBnmWQc3L2Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/huytran/Myproject_Edtech",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EdTechApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ED-Tech" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sixofrods.edtech.EdTechApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acedda39-0b08-4cf2-8f22-3fd5601e100b" name="Changes" comment="" />
+      <created>1749371468043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749371468043</updated>
+      <workItem from="1749371469562" duration="1015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
