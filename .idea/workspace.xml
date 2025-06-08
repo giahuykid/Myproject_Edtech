@@ -4,64 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acedda39-0b08-4cf2-8f22-3fd5601e100b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/docker/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/CreateFlashcard.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/CreateFlashcardCollection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/EditFlashcard.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileList.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileUpload.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileUploadButton.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FileUploadDialog.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FlashcardCollection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/FlashcardCollectionList.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/MockList.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/QuizDisplay.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/QuizForm.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/QuizList.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/components/layout/Navigation.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/pages/FilesPage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/pages/HomePage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/api.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/axiosConfig.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/fileService.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/services/flashcardService.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/src/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/frontend/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/controller/FileUploadControllerIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/controller/FileUploadControllerIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/service/FlashcardServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/java/com/sixofrods/edtech/service/FlashcardServiceIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/edtech-be/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/edtech-be/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edtech/frontend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/edtech/frontend/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acedda39-0b08-4cf2-8f22-3fd5601e100b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/edtech/edtech-be" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -115,6 +65,7 @@
       <updated>1749371468043</updated>
       <workItem from="1749371469562" duration="1015000" />
       <workItem from="1749377168607" duration="86000" />
+      <workItem from="1749377445482" duration="84000" />
     </task>
     <servers />
   </component>
